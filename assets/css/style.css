@@ -2522,8 +2522,7 @@ E. Responsive
         width:50%;
     }
 
-    .hero__outer-wrapper {position:relative;
-        max-width:100%;}
+  
 
 
     h2 {
@@ -2622,8 +2621,7 @@ E. Responsive
         width:50%;
     }
 
-    .hero__outer-wrapper {position:relative;
-        max-width:100%;}
+   
 
 
     h2 {
@@ -2722,10 +2720,7 @@ E. Responsive
         width:50%;
     }
 
-    .hero__outer-wrapper {position:relative;
-        max-width:100%;}
-
-    .block {
+     .block {
         padding-top: 4rem;
         padding-bottom: 4rem;
     }
