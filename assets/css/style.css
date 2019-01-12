@@ -2523,7 +2523,8 @@ E. Responsive
     }
 
     .hero__outer-wrapper {position:relative;
-        max-width:70%;}
+        max-width:100%;}
+
 
     h2 {
         font-size: 3.8rem;
@@ -2622,7 +2623,8 @@ E. Responsive
     }
 
     .hero__outer-wrapper {position:relative;
-        max-width:70%;}
+        max-width:100%;}
+
 
     h2 {
         font-size: 3.2rem;
@@ -2721,7 +2723,7 @@ E. Responsive
     }
 
     .hero__outer-wrapper {position:relative;
-        max-width:70%;}
+        max-width:100%;}
 
     .block {
         padding-top: 4rem;
