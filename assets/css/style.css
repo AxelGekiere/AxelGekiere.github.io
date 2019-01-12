@@ -2519,7 +2519,7 @@ E. Responsive
         font-size: 3rem;
         margin-top: 0;
         line-height: 4rem;
-        width:70rem;
+        width:50%;
     }
 
     .hero__outer-wrapper {position:relative;
@@ -2619,7 +2619,7 @@ E. Responsive
         font-size: 3rem;
         margin-top: 0;
         line-height: 5rem;
-        width:60rem;
+        width:50%;
     }
 
     .hero__outer-wrapper {position:relative;
@@ -2719,7 +2719,7 @@ E. Responsive
     h1 {
         font-size: 3rem;
         line-height: 5.8rem;
-        width:44.9375rem;
+        width:50%;
     }
 
     .hero__outer-wrapper {position:relative;
