@@ -2516,9 +2516,9 @@ E. Responsive
 
 @media (min-width: 62rem) and (max-width: 74.9375rem) {
     h1 {
-        font-size: 4.2rem;
+        font-size: 3rem;
         margin-top: 0;
-        line-height: 6rem;
+        line-height: 4rem;
     }
 
     h2 {
@@ -2611,7 +2611,7 @@ E. Responsive
 
 @media (min-width: 48rem) and (max-width: 61.9375rem) {
     h1 {
-        font-size: 3.8rem;
+        font-size: 3rem;
         margin-top: 0;
         line-height: 5rem;
     }
@@ -2707,7 +2707,7 @@ E. Responsive
 
 @media (max-width: 47.9375rem) {
     h1 {
-        font-size: 3.6rem;
+        font-size: 3rem;
         line-height: 5.8rem;
     }
 
