@@ -2525,6 +2525,9 @@ E. Responsive
 
     h1 .text-carousel {font-size: 2rem;}
 
+    h1.text-carousel {font-size: 2rem;
+        width:70%;}
+
 
     h2 {
         font-size: 3.8rem;
@@ -2624,6 +2627,9 @@ E. Responsive
     }
 
     h1 .text-carousel {font-size: 2rem;}
+
+    h1.text-carousel {font-size: 2rem;
+        width:70%;}
 
 
     h2 {
@@ -2728,7 +2734,8 @@ E. Responsive
     div.hero__inner-wrapper.align-middle
     {font-size:10px;}
 
-    h1.text-carousel {font-size: 2rem;}
+    h1.text-carousel {font-size: 2rem;
+        width:70%;}
 
      .block {
         padding-top: 4rem;
