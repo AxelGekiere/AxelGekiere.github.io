@@ -2516,14 +2516,14 @@ E. Responsive
 
 @media (min-width: 62rem) and (max-width: 74.9375rem) {
     h1 {
-        font-size: 40%;
+        font-size: 3rem;
         margin-top: 0;
         line-height: 4rem;
-        width:100%;
+        width:95%;
     
     }
 
-    h1 .text-carousel {font-size: 10px;}
+    h1 .text-carousel {font-size: 2rem;}
 
 
     h2 {
@@ -2615,16 +2615,15 @@ E. Responsive
 }
 
 @media (min-width: 48rem) and (max-width: 61.9375rem) {
-    h1 {
-        font-size: 40%;
+      h1 {
+        font-size: 3rem;
         margin-top: 0;
         line-height: 4rem;
-        width:100%;
-    }
+        width:95%;
     
+    }
 
-    h1 .text-carousel {font-size: 10px;}
-   
+    h1 .text-carousel {font-size: 2rem;}
 
 
     h2 {
@@ -2717,14 +2716,15 @@ E. Responsive
 }
 
 @media (max-width: 47.9375rem) {
-    h1 {
-        font-size: 40%;
+      h1 {
+        font-size: 3rem;
         margin-top: 0;
         line-height: 4rem;
-        width:100%;
+        width:95%;
+    
     }
 
-    h1 .text-carousel {font-size: 10px;}
+    h1 .text-carousel {font-size: 2rem;}
 
      .block {
         padding-top: 4rem;
