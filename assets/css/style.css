@@ -2516,7 +2516,7 @@ E. Responsive
 
 @media (min-width: 62rem) and (max-width: 74.9375rem) {
     h1 {
-        font-size: 3rem;
+        font-size: 20%;
         margin-top: 0;
         line-height: 4rem;
         width:50%;
