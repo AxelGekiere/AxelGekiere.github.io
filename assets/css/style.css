@@ -2520,10 +2520,10 @@ E. Responsive
         margin-top: 0;
         line-height: 4rem;
         width:100%;
-    }
+    
     }
 
-    .hero h1 .text-carousel {font-size: 40%;}
+    h1 .text-carousel {font-size: 10px;}
 
 
     h2 {
@@ -2621,9 +2621,9 @@ E. Responsive
         line-height: 4rem;
         width:100%;
     }
-    }
+    
 
-    .hero h1 .text-carousel {font-size: 40%;}
+    h1 .text-carousel {font-size: 10px;}
    
 
 
@@ -2724,7 +2724,7 @@ E. Responsive
         width:100%;
     }
 
-    .hero h1 .text-carousel {font-size: 40%;}
+    h1 .text-carousel {font-size: 10px;}
 
      .block {
         padding-top: 4rem;
