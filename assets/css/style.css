@@ -172,6 +172,7 @@ body.has-loading-screen .hero__link {
 body.has-loading-screen h1 .hero__title {
     color: rgba(255, 255, 255, 0);
     position: relative;
+    z-index:1;
 
 }
 
@@ -185,17 +186,20 @@ body.has-loading-screen h1 .hero__title:before {
     z-index: 0;
     transition: .6s cubic-bezier(.25, .1, 0, 1.01);
     transition-delay: .3s;
+    z-index:1;
 }
 
 body.has-loading-screen h1 .hero__title.in {
     color: rgba(255, 255, 255, 1);
     transition-delay: .7s;
+    z-index: 1;
 
 }
 
 body.has-loading-screen h1 .hero__title.in:before {
     animation: animation-h1-bg-reveal-in 1s cubic-bezier(.25, .1, 0, 1.01) forwards;
     animation-delay: .3s;
+    z-index:1;
 }
 
 @keyframes animation-h1-bg-reveal-in {
@@ -436,8 +440,8 @@ B. Classes
 }
 
 .block .block__title h2 {
-    margin-top:-100rem;
-    margin-bottom:-100rem;
+    margin-top:-5rem;
+    margin-bottom:-5rem;
 }
 
 .block .block__title h3 {
@@ -1049,7 +1053,7 @@ B. Classes
 
 #hero h1 .text-carousel span {
     color:#c12b2a;
-    font-size:7rem;
+    font-size:6rem;
 }
 
 #hero .container, #hero .row {
@@ -2601,6 +2605,8 @@ E. Responsive
     .push-up {
         top: -4rem;
     }
+
+
 }
 
 @media (min-width: 48rem) and (max-width: 61.9375rem) {
@@ -2775,4 +2781,5 @@ E. Responsive
     .push-up {
         top: 0;
     }
+    .navbar-brand {display:none;}
 }
