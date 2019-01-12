@@ -2725,6 +2725,9 @@ E. Responsive
     
     }
 
+    div.hero__inner-wrapper.align-middle
+    {font-size:10px;}
+
     h1.text-carousel {font-size: 2rem;}
 
      .block {
